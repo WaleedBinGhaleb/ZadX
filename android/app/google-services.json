@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "772679017390",
+    "project_id": "alzadx",
+    "storage_bucket": "alzadx.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772679017390:android:e3b1de99fbf70f746b9e3f",
+        "android_client_info": {
+          "package_name": "com.example.AlZad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "772679017390-4rsjf1pccmfgetcmuqsbdgfb1qb2na56.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB36zc58yVJ3Y8_hL_KPv8heuRBdJwAw70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "772679017390-4rsjf1pccmfgetcmuqsbdgfb1qb2na56.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
